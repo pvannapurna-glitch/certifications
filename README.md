@@ -3,7 +3,7 @@
 Welcome! This repository contains my professional certifications and completed courses across Cybersecurity, Programming and Automation.
 
 👩‍💻 **Name:** Panchangam Venkata Annapurna  
-🎯 **Focus Areas:** Cybersecurity  | Python  | Automation  
+🎯 **Focus Areas:** Cybersecurity  | Python  | Automation  |
 
 ---
 
